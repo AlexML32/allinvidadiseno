@@ -1,0 +1,1 @@
+const http = require('http'); http.get('http://127.0.0.1:5173/', (resp) => { let data = ''; resp.on('data', (chunk) => { data += chunk; }); resp.on('end', () => { console.log('STATUS:', resp.statusCode, 'BODY:', data.substring(0,100)); }); }).on('error', (err) => { console.log('Error: ' + err.message); });
