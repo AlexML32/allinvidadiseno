@@ -1,4 +1,4 @@
-# 🌿 ALLINVIDA SALUD — Sistema Web de Compra y Venta
+# Tienda naturista ALLINVIDA SALUD — Sistema Web de Compra y Venta
 
 Sistema web completo para la tienda naturista **ALLINVIDA SALUD**, con gestión de inventario, pedidos y ventas por roles (Administrador, Cliente y Repartidor).
 
